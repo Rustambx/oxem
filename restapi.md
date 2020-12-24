@@ -32,8 +32,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "status" : "Пользователь успешно зарегистрирован"
+    "success" : "true",
+    "status" : "Пользователь успешно зарегистрирован",
 }
 ```
 **3. Получения списка всех категорий**<br>
@@ -62,8 +62,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "ID Категорий"
+    "success" : "true",
+    "payload" : "ID Категорий",
 }
 ```
 **5. Редактирования категорий**<br>
@@ -83,8 +83,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "ID Категорий"
+    "success" : "true",
+    "payload" : "ID Категорий",
 }
 ```
 **6. Удаление категорий**<br>
@@ -101,8 +101,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "Категория удалена"
+    "success" : "true",
+    "payload" : "Категория удалена",
 }
 ```
 **7. Получения списка товаров**<br>
@@ -119,8 +119,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "Список товаров"
+    "success" : "true",
+    "payload" : "Список товаров",
 }
 ```
 **8. Получение списка товаров в конкретной категории**<br>
@@ -136,8 +136,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "Список товаров в конкретной категории"
+    "success" : "true",
+    "payload" : "Список товаров в конкретной категории",
 }
 ```
 **9. Получения конкретного товара**<br>
@@ -153,8 +153,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "Информация о товаре"
+    "success" : "true",
+    "payload" : "Информация о товаре",
 }
 ```
 **10. Добавления товара**<br>
@@ -176,8 +176,8 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "ID товара"
+    "success" : "true",
+    "payload" : "ID товара",
 }
 ```
 **11. Удаления товара**<br>
@@ -194,7 +194,7 @@
 <br>**Response:** 
 ```json 
 {
-    "success" : "true"
-    "payload" : "Продукт удален"
+    "success" : "true",
+    "payload" : "Продукт удален",
 }
 ```

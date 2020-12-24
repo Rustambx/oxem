@@ -11,5 +11,8 @@ php artisan make:product {Путь к файлу} --{опция}<br>
 php artisan make:product public\import\product.json --add (Добавления)<br>
 php artisan make:product public\import\product.json --update (Обновления)<br>
 
+### Документация REST API
+<a href="https://github.com/Rustambx/oxem/blob/master/restapi.md">Документация REST API</a>
+
 
 
